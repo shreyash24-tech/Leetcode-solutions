@@ -1,2 +1,7 @@
-# Leetcode-solutions
-Consistent LeetCode practice repository showcasing problem-solving skills and DSA fundamentals.
+# LeetCode Solutions
+
+This repository contains my daily LeetCode practice solutions.
+Language used: Java  
+Goal: Improve DSA & interview preparation.
+
+All solutions are written by me for learning purposes.
