@@ -20,3 +20,50 @@ It is maintained to improve problem-solving skills and prepare for **technical i
 ---
 
 ## 📂 Folder Structure
+LeetCode/
+│
+├── Arrays/
+├── Strings/
+├── Math/
+├── LinkedList/
+├── Stack/
+├── Queue/
+├── Recursion/
+├── Sorting/
+├── Searching/
+└── DynamicProgramming/
+
+
+Each folder contains Java implementations focused on clarity and efficiency.
+
+---
+
+## ✨ Coding Standards
+- Meaningful variable and method names  
+- Modular and readable code structure  
+- Edge-case handling  
+- Optimal time and space complexity  
+
+---
+
+## 🚀 Learning Approach
+- Start from easy problems and progress to medium and hard  
+- Focus on understanding concepts instead of memorizing solutions  
+- Practice multiple approaches when possible  
+
+---
+
+## 📈 Progress
+- Solutions added regularly  
+- Continuous improvement in logic and performance  
+
+---
+
+## 🤝 Contributions
+This repository is maintained for personal learning.  
+Suggestions for improvements and alternative approaches are welcome.
+
+---
+
+## 📄 Disclaimer
+All solutions are provided for **educational purposes only**.
