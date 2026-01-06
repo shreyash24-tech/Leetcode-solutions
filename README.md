@@ -1,6 +1,3 @@
-Sure, Shreyash. Below is a clean, professional, and industry-style README you can directly use for your LeetCode repository.
-It is generic, well-structured, and suitable for recruiters.
-(No images or entities are needed for a README.)
 
 📘 LeetCode Practice Repository
 📌 Overview
