@@ -1,81 +1,22 @@
+# LeetCode Problem Solutions
 
-📘 LeetCode Practice Repository
-📌 Overview
+## 📌 Overview
+This repository contains my **solutions to LeetCode problems**, implemented with a strong focus on **clean code**, **optimal performance**, and **clear logic**.  
+It is maintained to improve problem-solving skills and prepare for **technical interviews**.
 
-This repository contains my structured and consistent solutions to LeetCode problems, focused on improving problem-solving skills, data structures, and algorithmic thinking.
-All solutions are written with clarity, efficiency, and best coding practices in mind.
+---
 
-🧠 Objectives
+## 🧠 Key Focus Areas
+- Data Structures and Algorithms
+- Logical problem solving
+- Time and space complexity optimization
+- Interview-oriented coding practices
 
-Strengthen core Data Structures & Algorithms
+---
 
-Improve logical thinking and optimization skills
+## 🛠️ Language Used
+- **Java**
 
-Prepare for technical interviews and coding assessments
+---
 
-Maintain a well-organized and scalable codebase
-
-🛠️ Language Used
-
-Java
-
-📂 Repository Structure
-LeetCode/
-│
-├── Arrays/
-├── Strings/
-├── Math/
-├── LinkedList/
-├── Stack/
-├── Queue/
-├── Recursion/
-├── Sorting/
-├── Searching/
-└── DynamicProgramming/
-
-
-Each folder contains:
-
-Clean and readable Java code
-
-Optimized solutions
-
-Proper naming conventions
-
-✨ Coding Standards Followed
-
-Clear variable and method naming
-
-Modular and readable code
-
-Efficient time and space complexity
-
-Consistent formatting
-
-🚀 Learning Approach
-
-Start from easy problems and gradually move to medium & hard
-
-Focus on understanding logic, not memorization
-
-Practice multiple approaches where applicable
-
-Analyze edge cases and constraints
-
-📈 Progress Tracking
-
-Regular problem solving
-
-Continuous improvement of logic and performance
-
-Repository updated frequently with new solutions
-
-🤝 Contributions
-
-This repository is primarily for learning and self-improvement.
-Suggestions for optimization and alternative approaches are always welcome.
-
-📄 License
-
-This project is for educational purposes only.
-
+## 📂 Folder Structure
