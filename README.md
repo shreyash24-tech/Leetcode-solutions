@@ -53,6 +53,14 @@ Each folder contains Java implementations focused on clarity and efficiency.
 
 ---
 
+## Language Choice
+Java is used for array-, string-, and search-based problems due to its readability and OOP support.  
+C++ is preferred for pointer-based data structures such as linked lists, trees, and stacks for better memory control and performance.
+
+This approach reflects real-world engineering practices where the most suitable language is chosen based on the problem.**
+
+---
+
 ## 📈 Progress
 - Solutions added regularly  
 - Continuous improvement in logic and performance  
